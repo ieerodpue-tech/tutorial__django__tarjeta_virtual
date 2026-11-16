@@ -1,0 +1,6 @@
+django == 6.1
+django-ckeditor
+Pillow
+pylint
+pylint-django
+pylint-celery
